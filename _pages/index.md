@@ -10,8 +10,6 @@ permalink: /
 
 # 自己紹介
 
-
-
 ![image](http://kithub.jp/wp-content/uploads/2023/03/profile_kenji.jpg)
 
 
