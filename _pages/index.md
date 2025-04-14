@@ -59,5 +59,7 @@ permalink: /
 
 ![image](/GHPages_WebSite/assets/images/logo-150.png)
 ![image](/GHPages_WebSite/assets/assets/images/02-1.jpg)
+![image](https://github.com/Kenji-Goto/Github-Pages/blob/main/assets/images/02-1.jpg)
 <h1>a</h1>
-<img src=/GHPages_WebSite/assets/assets/images/02-1.jpg />
+<img src="/GHPages_WebSite/assets/assets/images/02-1.jpg" />
+<img src="https://github.com/Kenji-Goto/Github-Pages/blob/main/assets/images/02-1.jpg" />
